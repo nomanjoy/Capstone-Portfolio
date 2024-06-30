@@ -1,0 +1,159 @@
+body{
+    display: block;
+    background-color: #CDE8E5;
+    background-size: 180% 180%;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    
+    
+}
+.secound-container{
+    width: 100%;
+    text-align: center;
+    display: block;
+    
+    
+    
+    
+
+}
+
+.top-container{
+    
+    width: 100%;
+    height: 700px;
+    text-align: center;
+    overflow: hidden;
+    display: block;
+   
+    
+    
+}
+.third-container{
+    display: inline-block;
+    width: 20%;
+    
+    text-align: center;
+    margin-left: 40%;
+    
+
+
+}
+
+.fourth-container{
+    background-color: #E3FDFD;
+    width: 100%;
+    text-align: center;
+    display: block;
+    margin-top: 100px;
+    
+    
+
+}
+.fourth-container .need{
+    width: 40%;
+    margin-left: 30%;
+}
+.gape{
+    font-size: 100px;
+    color: #CBF1F5;
+    text-align: center;
+}
+.hedding3{
+    color: #4D869C;
+    margin: 50px;
+}
+
+.need{
+    padding: 100px;
+
+}
+.hedding2{
+    color: #4D869C;
+}
+
+
+
+.video img{
+    margin-bottom: 20px;
+
+}
+.photo img{
+    margin-bottom: 20px;
+
+}.mecha img{
+    margin-bottom: 20px;
+
+}.digital img{
+    margin-bottom: 20px;
+
+}
+
+
+
+
+
+.centered{
+    position: absolute;
+    top: 200px;
+    left: 45%;
+}
+.top-image{
+    width: 100%;
+    
+}
+.name{
+    font-size: 70px;
+    font-family: "Sacramento", cursive;
+    color: #7AB2B2;
+    font-weight: bold;
+}
+.bio{
+    font-size: 24px;
+    color: #4D869C;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.creative{
+    color: #7AB2B2;
+}
+.hedding{
+    color: #7AB2B2;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.third-container .hedding{
+    margin-bottom: 50px;
+    margin-top: 150px;
+}
+.bio2{
+    font-size: 20px;
+    margin-bottom: 100px;
+    
+}
+.profile-img {
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 150px;
+    margin-bottom: 40px;
+    
+
+  }
+
+  .fourth-container .btn{
+    text-align: center;
+    margin-top: 35px;
+    
+  }
+
+  .last-container{
+    background-color: #4D869C;
+  }
+  
+ .message{
+    padding: 100px;
+ }
